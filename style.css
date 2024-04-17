@@ -17,7 +17,7 @@ p {
   color: #666;
 }
 
-body{
+body {
   overflow: hidden;
 }
 
@@ -153,14 +153,14 @@ h6 {
 .header .social-links a {
   display: inline-block;
   margin-top: 60px;
-  margin-left: 20PX;
+  margin-left: 20px;
   width: 28px;
   height: 28px;
   color: #888;
   background-color: #eee;
   text-align: center;
 }
-.copyrights{
+.copyrights {
   margin-top: 30px;
   text-align: center;
 }
@@ -210,16 +210,16 @@ h6 {
   margin: 0 0 4px;
 }
 
-.section-description{
+.section-description {
   text-align: right;
 }
 
-.photo{
-position: sticky;
-width: 100vw;
-height:90vh;
-padding: 0;
-margin: 0%;
+.photo {
+  position: sticky;
+  width: 100vw;
+  height: 90vh;
+  padding: 0;
+  margin: 0%;
 }
 
 .site-main {
